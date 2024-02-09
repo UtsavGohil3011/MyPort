@@ -1,0 +1,23 @@
+#first_image{
+    width: 100%;
+    height: 93vh;
+}
+#second_image{
+    width: 100%;
+    height: 93vh;
+}
+#third_image{
+    width: 100%;
+    height: 93vh;
+}
+
+#back_color{
+    background-color:black;
+    color: white;
+
+}
+
+#back_color_2{
+    background-color: black;
+    color: white;
+}
